@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="wine_vs_goband"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wine_vs_goband">
+				<Option output="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/wine_vs_goband" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 wine_vs_goband"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wine_vs_goband/fast">
+				<Option output="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/wine_vs_goband" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/../../../../include/c++/7.1.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 wine_vs_goband/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/AI.CPP">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/AI.H">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/Board.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/Board.h">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/JUDGE.H">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/JUDGE.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/TABLE.CPP">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/TABLE.H">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/WineAI.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/WineAI.h">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/decision.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/decision.h">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/main.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/tools.cpp">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/tools.h">
+			<Option target="wine_vs_goband"/>
+		</Unit>
+		<Unit filename="/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

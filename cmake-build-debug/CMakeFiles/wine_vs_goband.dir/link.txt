@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/wine_vs_goband.dir/AI.CPP.o CMakeFiles/wine_vs_goband.dir/Board.cpp.o CMakeFiles/wine_vs_goband.dir/decision.cpp.o CMakeFiles/wine_vs_goband.dir/JUDGE.cpp.o CMakeFiles/wine_vs_goband.dir/main.cpp.o CMakeFiles/wine_vs_goband.dir/TABLE.CPP.o CMakeFiles/wine_vs_goband.dir/tools.cpp.o CMakeFiles/wine_vs_goband.dir/WineAI.cpp.o  -o wine_vs_goband 

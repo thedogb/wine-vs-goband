@@ -1,0 +1,4 @@
+/home/thedoga/Software/clion-2017.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/thedoga/WorkSpace/gomocup/src/wine-vs-goband
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug

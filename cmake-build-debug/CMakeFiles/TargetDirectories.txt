@@ -1,0 +1,3 @@
+/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thedoga/WorkSpace/gomocup/src/wine-vs-goband/cmake-build-debug/CMakeFiles/wine_vs_goband.dir
